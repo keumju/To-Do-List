@@ -3,8 +3,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 투두리스트 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> https://keumju.github.io/To-Do-List/
-      <li>◼ 리액트를 사용한 투두리스트</li><li>◼ 오늘의 할일 작성 등록 및 수정, 삭제 기능</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> https://keumju.github.io/To-Do-List/<br/>
+      ◼ 리액트를 사용한 투두리스트 <br/> ◼ 오늘의 할일 작성 등록 및 수정, 삭제 기능 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
