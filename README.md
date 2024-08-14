@@ -1,16 +1,49 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=e3d7c7&height=180&text=TO%20DO%20LIST&animation=&fontColor=ffffff&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 투두리스트 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> https://keumju.github.io/To-Do-List/<br/>
-      ◼ 리액트를 사용한 투두리스트 <br/> ◼ 오늘의 할일 작성 등록 및 수정, 삭제 기능 </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          </div>
-    </div>
-    
+# ✅ To Do List
+
+> 오늘의 할 일을 정리 할 수 있는 투두리스트 📌
+
+<br />
+
+<img width="1250" alt="스크린샷 2024-08-14 오후 5 10 12" src="https://github.com/user-attachments/assets/524d60eb-d8e1-47d7-ada5-0748b0a619c3">
+
+- 배포 URL : https://keumju.github.io/To-Do-List/
+
+<br>
+
+## 💭 프로젝트 소개
+
+- CRUD 기능이 들어간 TO DO LIST 입니다.
+- 오늘의 할일 작성 등록 및 수정, 삭제 기능이 있습니다.
+
+<br>
+
+## ⭐️ 프로젝트 기여도
+
+- 디자인 : 100%
+- 개발 : 100%
+
+<br/>
+
+## 1. 개발 환경
+
+- 개발 도구 : HTML, CSS, React
+
+- 주 구현 기능 : CRUD
+
+<br>
+
+## 2. 구현 기능
+
+### [오늘의 날짜]
+- 사용자가 오늘의 날짜를 확인 할 수 있도록 하였습니다.
+
+### [리스트]
+- 리스트 추가
+  - 할 일과 작성일을 기입 할 수 있는 공간을 제작하였습니다.
+  - 두가지 정보가 모두 기입이 되어야 추가 할 수 있도록 제작하였습니다.
+
+- 출력 리스트
+  - 추가한 각 항목이 Today's Goal 부분에 출력 될 수 있도록 제작하였습니다.
+  - 각 항목은 수정 및 삭제가 가능합니다.
+  - 완료된 항목 체크가 가능합니다.
+  - 전체 리스트의 개수가 실시간으로 변경됩니다.
